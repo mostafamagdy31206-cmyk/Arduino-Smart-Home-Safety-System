@@ -5,7 +5,8 @@
 
 An integrated embedded project featuring smart ambient lighting, dynamic temperature/gas hazard alarm system, and an interactive digital counter via 7-segment display.
 
-<img width="1314" height="730" alt="Screenshot 2026-08-12 175159" src="https://github.com/user-attachments/assets/464bce28-f573-4412-a66a-b365a4bbea47" />
+<img width="1580" height="798" alt="Screenshot 2026-08-12 184238" src="https://github.com/user-attachments/assets/690e2c1c-d128-472c-9a48-7deec5c07f0c" />
+
 
 ## 🚀 Features
 
