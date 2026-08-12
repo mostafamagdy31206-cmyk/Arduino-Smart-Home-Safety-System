@@ -5,6 +5,8 @@
 
 An integrated embedded project featuring smart ambient lighting, dynamic temperature/gas hazard alarm system, and an interactive digital counter via 7-segment display.
 
+<img width="1314" height="730" alt="Screenshot 2026-08-12 175159" src="https://github.com/user-attachments/assets/464bce28-f573-4412-a66a-b365a4bbea47" />
+
 ## 🚀 Features
 
 - **Smart Lighting Control:** Automatically adjusts room LED brightness based on LDR light sensor and potentiometer input.
